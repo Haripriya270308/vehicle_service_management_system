@@ -1,0 +1,14 @@
+{
+  "name": "vehicle-service-management",
+  "version": "1.0.0",
+  "description": "Beginner-friendly Vehicle Service Management System college project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.6.1",
+    "express": "^5.1.0",
+    "mysql2": "^3.24.5"
+  }
+}
